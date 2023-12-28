@@ -4,7 +4,7 @@ from snakemake.utils import validate
 
 
 # Set your specific experimental configuration here
-configfile: "config/gpr68_dec2022_trim.yaml"
+configfile: "config/gpr68_dec2022.yaml"
 
 
 # Include rules from other files

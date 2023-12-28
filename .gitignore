@@ -1,11 +1,9 @@
 .DS_Store
-results/
 benchmarks/
 logs/
 stats/
 ref/
 results/
 test/
-config/designed_variants/
 .snakemake
 .vscode/
