@@ -3,7 +3,7 @@
 # GPR68 DMS sequencing processing workflow with Dumpling
 
 This repository contains the snakemake-based workflow for implementing the
-deep mutational scanning experiments in Howard, Hoppe, et al 2023. This was 
+deep mutational scanning experiments in ["Molecular basis of proton-sensing by G protein-coupled receptors," Matthew K Howard, Nicholas Hoppe, Xi-Ping Huang, Christian B Macdonald, Eshan Mehrotra, Patrick Rockefeller Grimes, Adam M Zahm, Donovan D Trinidad, Justin G English, Willow Coyote-Maestas, Aashish Manglik bioRxiv 2024.04.17.590000; doi: https://doi.org/10.1101/2024.04.17.590000](https://doi.org/10.1101/2024.04.17.590000). This was 
 performed using our [Dumpling](https://github.com/odcambc/dumpling) pipeline.
 
 If you don't want to reproduce the analysis, but just want to see the results,
