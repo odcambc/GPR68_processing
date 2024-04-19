@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/736493453.svg)](https://zenodo.org/doi/10.5281/zenodo.10999527)
+
 # GPR68 DMS sequencing processing workflow with Dumpling
 
 This repository contains the snakemake-based workflow for implementing the
